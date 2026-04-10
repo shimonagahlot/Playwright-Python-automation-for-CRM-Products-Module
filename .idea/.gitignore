@@ -8,3 +8,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+__pycache__/
+*.pyc
+allure-results/
+allure-report/
