@@ -2,3 +2,19 @@ __pycache__/
 *.pyc
 allure-results/
 allure-report/
+# virtual environment
+venv/
+.env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# pytest cache
+.pytest_cache/
+
+# OS files
+.DS_Store
